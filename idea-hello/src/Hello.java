@@ -3,6 +3,8 @@ public class Hello {
         System.out.println("hello");
 
         System.out.println("hello3");
+
+        System.out.println("hello5");
     }
 
     public void test(){
