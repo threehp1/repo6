@@ -7,6 +7,8 @@ public class Hello {
         System.out.println("hello4");
 
         System.out.println("hello5");
+
+        System.out.println("hello6");
     }
 
     public void test(){
